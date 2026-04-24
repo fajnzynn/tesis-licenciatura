@@ -1,0 +1,10 @@
+<ForceField>
+ <AtomTypes>
+  <Type name="CA" class="C" element="C" mass="1"/>
+ </AtomTypes>
+ <Residues>
+  <Residue name="RES">
+   <Atom name="Res" type="CA"/>
+  </Residue>
+ </Residues>
+</ForceField>
