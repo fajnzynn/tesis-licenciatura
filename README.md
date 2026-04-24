@@ -1,8 +1,8 @@
 # Estudio computacional de la dinámica conformacional de la transición abierto-cerrado en acuaporinas PIP
 
-**Autor/a:** Nicanor Fajnzyn   
-**Director/a:** Ernesto Román
-**Codirector/a (si corresponde):** Gerardo Zerbetto de Palma  
+**Autor:** Nicanor Fajnzyn   
+**Director:** Ernesto Román
+**Codirector:** Gerardo Zerbetto de Palma  
 **Carrera:** Licenciatura en Ciencias Biológicas  
 **Institución:** Universidad de Buenos Aires
 **Año:** 2026
